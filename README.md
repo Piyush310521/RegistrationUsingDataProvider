@@ -6,10 +6,10 @@ Supports data-driven testing via TestNG's @DataProvider.
 ***Tech Stack***
 Tool  Version
 
-Java     17
-Selenium  WebDriver4.18.1
-TestNG   7.11.0
-ChromeDriver 147
+Java  17,
+Selenium  WebDriver4.18.1,
+TestNG   7.11.0,
+ChromeDriver 147,
 Maven   Latest
 
 
